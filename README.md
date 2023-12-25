@@ -38,6 +38,10 @@
 
 </ul>
 </p>
+  <h1>Project</h1>
+  <p>
+    The <a href="https://fintracker360.vercel.app/" >finTracker</a> is a simple and user-friendly application designed to help users manage their personal finances
+  </p>
 
 
 <h3 align="left">Languages and Tools:</h3>
