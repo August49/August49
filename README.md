@@ -9,8 +9,6 @@
 
 - 💬 Ask me about **Git, React, Next.js, JavaScript, java**
 
-- 📫 How to reach me **augustiniusngongo@gmail.com**
-
 - ⚡ Fun fact **😄😄😄**
 
 <h3 align="left">Connect with me:</h3>
