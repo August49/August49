@@ -27,7 +27,7 @@
 - [ ] Writing clean, well-organized code that is easy to read and maintain.
   
 - [ ] Version control system.  
-- [ ] Logginng and tracking sytem
+- [ ] Logginng and tracking systems such as Sentry
 - [ ] API integration / Build RESTful APIs
 - [ ]  Testing: using frameworks such as jest, mocha
 
