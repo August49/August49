@@ -10,7 +10,7 @@
 - 💬 Ask me about **Git, React, Next.js, JavaScript, java**
 
 - ⚡ Fun fact **😄😄😄**
-
+<h3>Community</h3>
 <p align="left">
 <a href="https://linkedin.com/in/joseph augustinius n" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="joseph augustinius n" height="30" width="40" /></a>
   <a href="https://stackoverflow.com/users/15670560/joseph-ngongo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/15670560/joseph-ngongo" height="30" width="40" /></a>
