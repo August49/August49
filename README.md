@@ -29,7 +29,7 @@
 - [ ]  Testing: using frameworks such as jest, mocha
 
 - [ ]  SEO best practices
-- [ ]  performance best practices: Use techniques like lazy loading, code splitting, and caching.
+- [ ]  performance best practices: Use lazy loading, code splitting, and caching techniques.
 - [ ]  security best practices: Implementing secure authentication, and authorization mechanisms. sanitizing user input to prevent SQL injection attacks and other security vulnerabilities.
 
 - [ ]  Database Integration
@@ -39,12 +39,14 @@
 </ul>
 </p>
   <h1>Project</h1>
-  <p>
+  <ul>
+  <li>
     The <a href="https://fintracker360.vercel.app/" >finTracker</a> is a simple and user-friendly application designed to help users manage their personal finances</p>
-    <p>
-<a href="https://game-discovery360.vercel.app/" >GameDiscovery360</a>: A web application developed using the RAWG.io API. This app allows users to discover new games, view detailed information about specific games, and browse games by categories. It features a responsive design for optimal viewing on various devices. The app is built with modern web technologies and practices, including service workers for offline support and a manifest file for installability, making it a Progressive Web App (PWA)."
-
-  </p>
+    </li>
+    <li>
+The <a href="https://game-discovery360.vercel.app/" >GameDiscovery360</a> is an app that allows users to discover new games, view detailed information about specific games, and browse games by category. It features a responsive design for optimal viewing on various devices. The app is built with modern web technologies and practices, including service workers for offline support and a manifest file for installability, making it a Progressive Web App (PWA)."
+</li>
+  </ul>
   
 
 
