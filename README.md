@@ -41,10 +41,10 @@
   <h1>Project</h1>
   <ul>
   <li>
-    The <a href="https://fintracker360.vercel.app/" >finTracker</a> is a simple and user-friendly application designed to help users manage their personal finances</p>
+    <a href="https://fintracker360.vercel.app/" >finTracker</a> is a simple and user-friendly application designed to help users manage their personal finances</p>
     </li>
     <li>
-The <a href="https://game-discovery360.vercel.app/" >GameDiscovery360</a> is an app that allows users to discover new games, view detailed information about specific games, and browse games by category. It features a responsive design for optimal viewing on various devices. 
+<a href="https://game-discovery360.vercel.app/" >GameDiscovery360</a> is an app that allows users to discover new games, view detailed information about specific games, and browse games by category. It features a responsive design for optimal viewing on various devices. 
 </li>
   </ul>
   
