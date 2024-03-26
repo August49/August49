@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Git, React, Next.js, js, ts , java**
 
-- ⚡ Fun fact **😄😄😄**
+- ⚡ writing technical articles✍
 <h3>Community</h3>
 <p align="left">
 <a href="https://linkedin.com/in/joseph augustinius n" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="joseph augustinius n" height="30" width="40" /></a>
