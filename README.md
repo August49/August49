@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Machine Learning**
 
-- 💬 Ask me about **Git, React, Next.js, js, ts , java**
+- 💬 Ask me about **Git, React, Next.js, JavaScript, TypeScript , Java, C++, Python**
 
 - ⚡ writing technical articles✍
 <h3>Community</h3>
