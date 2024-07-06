@@ -24,16 +24,11 @@
 - [ ] Writing clean, well-organized code that is easy to read and maintain.
   
 - [ ] Version control system.  
-- [ ] Logginng and tracking systems such as Sentry
 - [ ] API integration / Build RESTful APIs
-- [ ]  Testing: using frameworks such as jest, mocha
-
 - [ ]  SEO best practices
 - [ ]  performance best practices: Use lazy loading, code splitting, and caching techniques.
 - [ ]  security best practices: Implementing secure authentication, and authorization mechanisms. sanitizing user input to prevent SQL injection attacks and other security vulnerabilities.
-
 - [ ]  Database Integration
-
 - [ ] Prototyping and mockups
 
 </ul>
