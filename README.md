@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=august49&label=Profile%20views&color=0e75b6&style=flat" alt="august49" /> </p>
 
-- 🔭 I’m currently working on **Project Management Tool**
+- 🔭 Working with Data and Systems
 
 - 🌱 I’m currently learning **Machine Learning**
 
-- 💬 Ask me about **Git, React, Next.js, JavaScript, TypeScript , Java, C++, Python**
+- 💬 Ask me about **Data Engineering and Systems**
 
 - ⚡ writing technical articles✍
 <h3>Community</h3>
