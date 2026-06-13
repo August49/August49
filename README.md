@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Joseph Augustinius Ngongo</h1>
-<h3 align="center"> Software Engineer</h3>
+<h3 align="center"> Computer Science Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=august49&label=Profile%20views&color=0e75b6&style=flat" alt="august49" /> </p>
 
@@ -18,15 +18,16 @@
 </p>
 
 <p>
-  <h1>Skills Checklist</h1>
+  <h1>Skills</h1>
 <ul> 
-  
+
+- [ ] Data Management & Analytics: Data validation, data quality management, data analysis, reporting, and ETL
+- [ ] Data Tools & Visualization: Microsoft Excel (Advanced), Power BI, Custom Web applications and dashboards.
 - [ ] Writing clean, well-organized code that is easy to read and maintain.
-  
 - [ ] Version control system.  
 - [ ] API integration / Build RESTful APIs
-- [ ]  SEO best practices
-- [ ]  performance best practices: Use lazy loading, code splitting, and caching techniques.
+- [ ] SEO best practices
+- [ ] performance best practices: Use lazy loading, code splitting, and caching techniques.
 - [ ]  security best practices: Implementing secure authentication, and authorization mechanisms. sanitizing user input to prevent SQL injection attacks and other security vulnerabilities.
 - [ ]  Database Integration
 - [ ] Prototyping and mockups
@@ -43,6 +44,5 @@
 </li>
   </ul>
   
-
 
 
